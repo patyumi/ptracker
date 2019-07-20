@@ -1,0 +1,82 @@
+/* Geral */
+h5, h6{
+    font-size: 18px;
+    }
+    .block{
+        display: block;
+    }
+    
+    .inline{
+        display: inline;
+    }
+    
+     /* Barra Horizontal com logo */
+     .mHorizontal{
+        display: inline-block;
+        width: 88%;
+        height: 50px;
+        background: #FFF;
+        margin: 0;
+    }
+    
+    .logoImg{
+        width: 30px;
+        padding: 0;
+        margin: 0;
+        margin-right: 5px;
+    }
+    
+    .logoText{
+        font-weight: 700;
+        color: #4394FF;
+        padding: 0;
+        padding-right: 15px; 
+        margin: 0;
+    }
+    
+    .text-center h6{
+        font-weight: 500;
+        padding-top: 10px;
+    }
+    
+    .text-center h5{
+        color: #C80E67;
+    }
+    /*
+    
+    
+    /* Barra vertical com o menu */
+    .mVertical{
+        display: block;
+        min-width: 12%;
+        float: left;
+        background: #151821;
+        height: 100vh;
+        color: #FFF;
+        opacity: 0.95;
+    }
+    
+    .imgUser{
+        padding: 5px;
+    }
+    
+    .mVertical ul{
+        display: inline;
+    }
+    
+    .mVertical ul li:first-child{
+        padding: 20px 0px;
+        background: #151821;
+    }
+    
+    .mVertical ul li {
+        border-bottom: 1px solid #151821;
+        background: #000;
+        opacity: 1;
+    }
+    
+    .mVertical ul li a:hover{
+        opacity: 0.8;
+        font-weight: 600;
+        color: #FFF;
+    }

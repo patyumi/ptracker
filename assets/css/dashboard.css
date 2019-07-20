@@ -1,0 +1,26 @@
+/* Menu */
+#menu-dash{
+    border-left: 3px solid #C80E67;
+}
+
+section{
+	margin: 15px ;
+	width: 30%;
+    height: 360px;
+    background: #FFF;
+}
+
+h6{
+    font-size: 18px;
+    font-weight: 300;
+}
+
+.num h1{
+    font-size: 200px;    
+}
+
+.caja-pie{
+    min-height: 350px;
+}
+
+

@@ -1,0 +1,72 @@
+/* Geral */
+*{
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+	background: #f8f9fa;
+}
+
+/* Menu Principal */
+.tituloPag{
+    display: inline;
+    padding: 0;
+    margin: 0;
+    padding-left: 15px; 
+    font-weight: 300;
+}
+
+/* Menu de Ações */
+#principal{
+  color: #C80E67;
+}
+
+.conteudo{
+    border: 1px solid #fff;
+    background: #FFF;
+    margin-top: -38px;
+}
+
+.tabset{
+  height: 66px;
+}
+
+.conteudo a{
+    width: 100px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-bottom: 0;
+    cursor: pointer;
+    font-weight: 600;
+    color:  #151821;
+}
+
+.conteudo a:hover{
+  color: #C80E67;
+}
+
+/* formulários comuns */
+
+.corpoAba{
+    background: #FFF;
+    margin: 0;
+    padding: 15px;
+  }
+
+.form-row{
+  padding-left: 15px; 
+}
+
+.firtsLine{
+  border-radius: 6px;
+  padding: 5px;
+}
+
+
+.firtsLine p{
+  padding: 0;
+  margin: 0;
+}

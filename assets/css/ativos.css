@@ -1,0 +1,23 @@
+#menu-ativos{
+    border-left: 3px solid #C80E67;
+}
+
+.btnLocal{
+    margin-top: 28px;
+}
+
+#temp{
+    border: 1px solid black;
+}
+
+.qr{
+    margin-bottom: 20px;
+}
+
+.print{
+    margin-left: 13px;
+}
+
+.historico{
+    margin-top: 125px;
+}
